@@ -4,7 +4,7 @@ import './Block.css';
 const Block = () => {
 
   return (
-    <div class="container">
+    <div class="w-10 h-10 m-1">
       <div class="cube">
         <div class="face top"></div>
         <div class="face bottom"></div>
