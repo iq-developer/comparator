@@ -15,3 +15,7 @@ You doesn't have responsive design, and so did I
 
 - width: 700px
 - height: 600px
+
+## Note
+
+bottom and top id are switched because of col-reverse
